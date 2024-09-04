@@ -1,0 +1,159 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{Ovens2022}{article}{}
+      \name{author}{21}{}{%
+        {{hash=c45e7a1d5a73e8bb34dd3ab84edf727f}{%
+           family={Ovens},
+           familyi={O\bibinitperiod},
+           given={Ashley\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=c77337401f14a4672bc7502b3c1e4089}{%
+           family={Gee},
+           familyi={G\bibinitperiod},
+           given={Yi\bibnamedelima Sing},
+           giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8b3c64c0e119bf77db82e6f44b19477e}{%
+           family={Ling},
+           familyi={L\bibinitperiod},
+           given={Naomi\bibnamedelima X.Y.},
+           giveni={N\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=0fdd8563e1e5aec9e91f2266fa402a54}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Dingyi},
+           giveni={D\bibinitperiod}}}%
+        {{hash=a0d526ee34c072aeb290a820d1d6a28b}{%
+           family={Hardee},
+           familyi={H\bibinitperiod},
+           given={Justin\bibnamedelima P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=33669fc2996ea64d620901aea041b652}{%
+           family={Chung},
+           familyi={C\bibinitperiod},
+           given={Jin\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=61bc9caea79277651c4e85f99455d0e1}{%
+           family={Ngoei},
+           familyi={N\bibinitperiod},
+           given={Kevin\bibnamedelima R.W.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=9ec740c10b83405867b862f037683d75}{%
+           family={Waters},
+           familyi={W\bibinitperiod},
+           given={Nicholas\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4e5f4f246d32596908f8e2613363d4f1}{%
+           family={Hoffman},
+           familyi={H\bibinitperiod},
+           given={Nolan\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=23c6b1c1ea4cbc18f822fa20ce4ceb95}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=4beb59c2f88a02e98941b00bb58c7b52}{%
+           family={Loh},
+           familyi={L\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod}}}%
+        {{hash=68c5a46cdf316c21486c91a544661786}{%
+           family={Spengler},
+           familyi={S\bibinitperiod},
+           given={Katrin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=eee1d7bcf4a8ad49b301eaef251c2ad0}{%
+           family={Heller},
+           familyi={H\bibinitperiod},
+           given={Regine},
+           giveni={R\bibinitperiod}}}%
+        {{hash=7ad8baecde7539cf5d7a72c03df3913d}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Michael\bibnamedelima W.},
+           giveni={M\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=87deb9e02f5f0a7fa7b281baff231c0e}{%
+           family={Lynch},
+           familyi={L\bibinitperiod},
+           given={Gordon\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=10a0d3aa004649de7a7ab2ffecb35bce}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=75fd3ba11edc944787b5a9a63b3c71ca}{%
+           family={Galic},
+           familyi={G\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=907305cf2a59770d7e39cc49abef64ba}{%
+           family={Kemp},
+           familyi={K\bibinitperiod},
+           given={Bruce\bibnamedelima E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=c4a71227dce28d629854a7b7fd2a0663}{%
+           family={Baell},
+           familyi={B\bibinitperiod},
+           given={Jonathan\bibnamedelima B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=066db2972e9518ccf9a3a6d155933605}{%
+           family={Oakhill},
+           familyi={O\bibinitperiod},
+           given={Jonathan\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=95cf63b70a03da249f3ab4b876f2af54}{%
+           family={Langendorf},
+           familyi={L\bibinitperiod},
+           given={Christopher\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Portland Press Ltd.}%
+      }
+      \strng{namehash}{68243efeb3bd8059ac7d7a48972eecd2}
+      \strng{fullhash}{d7ffbab394c0872526480dc64f8077b1}
+      \strng{bibnamehash}{68243efeb3bd8059ac7d7a48972eecd2}
+      \strng{authorbibnamehash}{68243efeb3bd8059ac7d7a48972eecd2}
+      \strng{authornamehash}{68243efeb3bd8059ac7d7a48972eecd2}
+      \strng{authorfullhash}{d7ffbab394c0872526480dc64f8077b1}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1470-8728}
+      \field{journaltitle}{Biochemical Journal}
+      \field{month}{6}
+      \field{number}{11}
+      \field{title}{Structure-function analysis of the AMPK activator SC4 and identification of a potent pan AMPK activator}
+      \field{volume}{479}
+      \field{year}{2022}
+      \field{pages}{1181\bibrangedash 1204}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1042/bcj20220067
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

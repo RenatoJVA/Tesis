@@ -3,12 +3,16 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage[spanish]{babel}
+\usepackage{csquotes}
 
 \usepackage{amsmath,amsfonts,amsthm,amssymb,dsfont}
-\usepackage{graphicx,wrapfig,lipsum}
+\usepackage{graphicx}
+\graphicspath{{img/}}
 
 \usepackage[section]{placeins}
-\usepackage[numbers,sort&compress]{natbib}
+\usepackage{biblatex}
+\addbibresource{Tesis.bib}
+
 
 \usepackage{tikz}
 \usetikzlibrary{shapes.geometric,decorations.markings}
@@ -68,14 +72,12 @@
 \begin{titlepage}
 \begin{center}
 
-
-\includegraphics[scale=0.35]{logo} \vspace{0.5cm}
+     \includegraphics[scale=0.49]{logo} \hfill
+     \includegraphics[scale=0.25]{web-ucsm-escudo.png} \par
 
 \textsc{\Large Avance de proyecto } \vspace{0.5cm} % Thesis type
 
-
 \rule{14cm}{0.05cm} \vspace{0.4cm} % Horizontal line
-
 
 \Large{\textbf{Metformina y proteina AMPK }}\vspace{0.4cm} % Thesis title
 
@@ -195,10 +197,7 @@ Centro de Investigación en Ingeniería Molecular
 %	BIBLIOGRAPHY
 %--------------------------------------------------------------------
 
-\bibliographystyle{JHEP}
-
-\bibliography{ref} 
-
+\printbibliography
 %-------------------------------------------------------------------
 
 \end{document}  
